@@ -5,7 +5,6 @@ const port = 8080 || process.env.PORT;
 const response = {
     "tourName": "Tour Name Here",
     "tourList": {
-        "#text": "-",
         "tourStop": {
             "stopNumber": "22",
             "prevStop": "21",
